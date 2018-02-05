@@ -10,8 +10,11 @@ public class EditDistance {
 	
 	/**
 	 * Calculates the Edit distance.
-	 * @param str1 The first string.
-	 * @param str2 The second string.
+	 * 
+	 * @param str1
+	 *            The first string.
+	 * @param str2
+	 *            The second string.
 	 * @return The number of edits to make strings equal.
 	 */
     public static int edit(String str1, String str2) {
