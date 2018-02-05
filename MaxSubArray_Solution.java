@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * Solution to HackerRank max sub array problem.
+ * @author Dustin Olychuck
+ * @version 4/2/2018
+ *
+ */
 public class MaxSubArray_Solution {
 
 	/**
